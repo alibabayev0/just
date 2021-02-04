@@ -1,4 +1,4 @@
-### <center><img align="center" src="https://github.com/alibabayev0/just-android/blob/main/src/logo.png?raw=true" width="42" /> Just </center>
+### <center> <img align="center" src="https://github.com/alibabayev0/just-android/blob/main/src/logo.png?raw=true" width="42" /> Just</center>
 ## About
 Just show you all the current events on the map, traffic jam, when public transport approaches you. So you do not have to plan your day ahead of time. "Are you finishing your dinner and looking for fun in your neighborhood?" Just will help you.  
   
@@ -15,7 +15,7 @@ Find out what your friends have done, what events they invite you, and those who
 Create a personal account and record the events you are about to go
 
 ## Slides
-&nbsp;&nbsp;&nbsp;<img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/1.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/2.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/3.png?raw=true" width="150">&nbsp;&nbsp;&nbsp; <img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/4.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/1.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/2.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/3.png?raw=true" width="150">&nbsp;&nbsp;&nbsp; <img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/4.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;<img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/5.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/6.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;  <img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/7.png?raw=true" width="150">&nbsp;&nbsp;&nbsp; <img src="https://github.com/alibabayev0/just-android/blob/main/src/slides/8.png?raw=true" width="150">&nbsp;&nbsp;&nbsp;
 
 ### Additional Information :
